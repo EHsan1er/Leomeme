@@ -1,0 +1,21 @@
+{
+  "name": "LEOMEME",
+  "symbol": "LEOME",
+  "description": "این یک میم خنده دار با یک قورباغه خندان است که برای سرگرمی جامعه لازم است.",
+  "image": "https://raw.githubusercontent.com/EHsan1er/Leomeme/main/leomeme.png",
+  "external_url": "https://github.com/EHsan1er/Leomeme",
+  "attributes": [
+    {
+      "trait_type": "نوع",
+      "value": "میم"
+    },
+    {
+      "trait_type": "حیوان",
+      "value": "قورباغه"
+    },
+    {
+      "trait_type": "حالت",
+      "value": "خندان"
+    }
+  ]
+}
